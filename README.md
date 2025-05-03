@@ -34,4 +34,4 @@ Projet personnel – librement partageable pour usage pédagogique et scénique.
 
 ---
 
-Maintenu et enrichi avec ❤️ par [ton nom ou pseudo ici]
+Maintenu et enrichi avec ❤️ par [Lampionk]
