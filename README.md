@@ -4,22 +4,11 @@ Ce dépôt contient une **documentation exhaustive** sur le développement de pl
 
 ## 📚 Contenu
 
-- `Encyclopedie_MA2.md` : fichier principal contenant toutes les sections détaillées.
-- `CHANGELOG.md` : journal des modifications et ajouts.
-- (Autres fichiers à venir…)
+Chaque fichier `.md` correspond à une section indépendante de l'encyclopédie.
 
 ## 🔍 Table des matières rapide
 
-1. Bonnes pratiques générales
-2. Erreurs fréquentes & solutions
-3. Fonctions Lua utiles
-4. Commandes MA2 typiques
-5. Fiches de scripts Disco
-6. Scripts Chase
-7. Annexes & utilitaires
-8. MA2 Knowledge (structuration, World, Executor…)
-
-👉 Tout est dans le fichier [`Encyclopedie_MA2.md`](./Encyclopedie_MA2.md)
+Voir [00_Menu.md](./00_Menu.md)
 
 ## 🛠️ Objectif
 
@@ -31,7 +20,3 @@ Ce dépôt contient une **documentation exhaustive** sur le développement de pl
 ## 📄 Licence
 
 Projet personnel – librement partageable pour usage pédagogique et scénique.
-
----
-
-Maintenu et enrichi avec ❤️ par [Lampionk]
